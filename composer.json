@@ -7,7 +7,7 @@
         {
             "name": "Sebastian Tschan",
             "homepage": "https://blueimp.net"
-        },
+        }
     ],
     "support": {
         "forum": "https://stackoverflow.com/questions/tagged/blueimp+jquery+file-upload"
